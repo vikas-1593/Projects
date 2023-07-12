@@ -1,0 +1,1 @@
+This is a connecting dots project open index.html to start the game.
